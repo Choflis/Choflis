@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="assets/fondo.gif" alt="Background banner" style="width:100%; max-width:1200px; border-radius:12px;">
+  <img src="assets/banner.svg" alt="Banner" style="width:100%; max-width:1200px; border-radius:12px;">
 </p>
 
-<h1 align="center" style="font-size:64px; margin:0.2rem 0; font-weight:800;">Choflis</h1>
-
-<p align="center"><em>Systems Engineering student — Universidad Nacional de San Agustín</em></p>
-
-<p align="center" style="margin-top:1rem;">
+<p align="center" style="margin-top:10px;">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
