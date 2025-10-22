@@ -54,8 +54,7 @@ Soy desarrollador apasionado por crear interfaces limpias y aplicaciones de alto
 
 ## ✉️ Contacto
 - GitHub: https://github.com/Choflis  
-- Email: tu-email@ejemplo.com (pon aquí tu correo si quieres mostrarlo)  
-- LinkedIn / Twitter / Portfolio — añade tus enlaces si los tienes
+
 
 ---
 
